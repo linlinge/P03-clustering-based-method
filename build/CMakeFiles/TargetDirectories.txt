@@ -1,0 +1,6 @@
+/home/llg/workspace/P03-NeighbourBasedMethod/build/CMakeFiles/rebuild_cache.dir
+/home/llg/workspace/P03-NeighbourBasedMethod/build/CMakeFiles/template-cmake.dir
+/home/llg/workspace/P03-NeighbourBasedMethod/build/CMakeFiles/edit_cache.dir
+/home/llg/workspace/P03-NeighbourBasedMethod/build/glib/CMakeFiles/rebuild_cache.dir
+/home/llg/workspace/P03-NeighbourBasedMethod/build/glib/CMakeFiles/GLIB.dir
+/home/llg/workspace/P03-NeighbourBasedMethod/build/glib/CMakeFiles/edit_cache.dir
